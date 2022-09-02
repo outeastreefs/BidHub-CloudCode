@@ -1,11 +1,11 @@
 {
     "applications": {
         "<your app name>": {
-            "applicationId": "<your app id>",
-            "masterKey": "<your master key>"
+            "applicationId": "<OER Auctions>",
+            "masterKey": "<1202222>"
         }, 
         "_default": {
-            "link": "<your app name>"
+            "link": "<OER Auctions>"
         }
     }, 
     "global": {
